@@ -3,7 +3,7 @@ A game I made in a single day.
 
 ![screenshot](https://i.imgur.com/R2W1a5x.gif)
 
-#Why I Made This
+# Why I Made This
 Numerous reasons. It all started when I was living back in my college dorm. There were these two elevators in the west building and a touchscreen kiosk next to it. I was a freshman and during the first two weeks of the semester, I had to suffer from the constant breakdowns of the elevators. Almost everyday either 1 or both elevators would break down. This was a hassle because I lived on the 11th floor and waiting for the elevators always took approximately 5 minutes.
 
 So one day, frustrated while waiting for the elevator, I looked at the kiosk and realized that hardly no one uses it. Probably one of the reasons why this university is so expensive is because they always spend it on unnecessary gimicks like these. I thought to myself, why not put a game on this for people to play as they wait for the elevator? It would at least give the kiosk a better purpose. Now of course the first step was to figure out how to run custom programs on the kiosk. As I was inspecting it, there were no other input devices besides the touchscreen itself. However, I noticed something as I tapped the screen. A side bar would show up and present a virtual keyboard GUI. Upon seeing that, I realized the kiosk was running Windows 7. I pressed the windows home button and voila, the entire desktop showed up. Such security for a university kiosk!
