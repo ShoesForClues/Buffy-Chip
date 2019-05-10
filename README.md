@@ -1,7 +1,7 @@
 # Buffy-Chip
 A game I made in a single day.
 
-<img src="/screenshots/video_1.gif?raw=true" width="200px">
+<img src="/screenshots/video_2.gif?raw=true" width="200px"> <img src="/screenshots/video_1.gif?raw=true" width="200px">
 
 # Why I Made This
 It all started when I was living back in my college dorm. There were these two elevators in the west building and a touchscreen kiosk next to it. I was a freshman and during the first two weeks of the semester, I had to suffer from the constant breakdowns of the elevators. Almost everyday either 1 or both elevators would break down. This was a hassle because I lived on the 11th floor and waiting for the elevators always took approximately 5 minutes.
